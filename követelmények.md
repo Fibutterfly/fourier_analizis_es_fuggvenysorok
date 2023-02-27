@@ -1,0 +1,3 @@
+- 10. hét ZH
+- ZH + vizsga átlaga
+- írásbeli + szóbeli a vizsga
