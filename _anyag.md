@@ -1,0 +1,10 @@
+# 1. óra
+![[Lebesgue integrál#Lebesgue integrál def]]
+![[L2 függvénytér#$ cal{L} 2$ függvénytér $ Omega$ halmazon]]
+![[Bessel-egyenlőtlenség#Bessel-egyenlőtlenség]]
+![[Teljes rendszer#Teljes rendszer]]
+![[Parseval egyenlőség#Parseval egyenlőség]]
+![[L2 függvénytér#Fourier bizonyítása a $ cal{L} 2$-nek]]
+![[Fourier#Fourier sor]]
+![[Fourier#Fourier Megoldási algoritmus]]
+![[Fourier#Fourier Gyakorló példák]]
